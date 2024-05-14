@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-robokamus-projects.vercel.app/api/top-langs/?username=RoboKamu&count_private=true&layout=donut&hide=makefile,javascript,scss,css,html&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RoboKamu" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RoboKamu&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoboKamu&count_private=true&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
