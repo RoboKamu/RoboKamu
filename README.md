@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Top Langs](https://github-readme-stats-robokamus-projects.vercel.app/api/top-langs/?username=RoboKamu&hide=makefile,scss,css,html&theme=gruvbox)
+ ![Top Langs](github-readme-stats-6qgk5t2hp-robokamus-projects.vercel.app/api/top-langs/?username=RoboKamu&hide=makefile,scss,css,html&theme=gruvbox)
  
