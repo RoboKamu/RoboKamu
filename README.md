@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats-robokamus-projects.vercel.app/api/top-langs/?username=RoboKamu&count_private=true&layout=donut&hide=makefile,javascript,scss,css,html&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
